@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>0.9.0.0</version>
-    <url>https://github.com/JasperBTA/Sfera_Integrator_Aktualizacje/releases/download/v0.9/IntegratorSetup.msi</url>
+    <version>1.0.0.0</version>
+    <url>https://github.com/JasperBTA/Sfera_Integrator_Aktualizacje/releases/download/v1.0.0/IntegratorSetup.msi</url>
     <changelog>https://github.com/JasperBTA/Sfera_Integrator_Aktualizacje/releases</changelog>
     <mandatory>false</mandatory>
 </item>
