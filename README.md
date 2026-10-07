@@ -1,1 +1,1 @@
-# Sfera_Integrator_Update
+Integration service bridging WordPress REST API and Gratyfikant GT ERP/HR software. Automates employee onboarding by fetching application data, validating payloads, and populating HR ledgers via the InsERT Sfera COM interface. Features a standalone client updater mechanism.
